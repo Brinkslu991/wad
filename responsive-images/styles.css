@@ -1,6 +1,7 @@
 img {
     height: auto;
     max-width: 100%; 
+    width: 400px;
     object-fit: cover;
 }
 body {
