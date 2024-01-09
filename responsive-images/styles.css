@@ -1,0 +1,9 @@
+img {
+    height: auto;
+    width: 500px;
+    object-fit: cover;
+}
+body {
+    background-color: black;
+    color: aquamarine;
+}
