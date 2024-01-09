@@ -1,11 +1,13 @@
+
+body {
+    background-color: black;
+    color: aquamarine;
+}
+
 img {
     max-width: 100%; 
     height: auto;
     object-fit: cover;
     width: 400px;
    
-}
-body {
-    background-color: black;
-    color: aquamarine;
 }
